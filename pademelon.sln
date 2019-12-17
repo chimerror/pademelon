@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pademelon", "pademelon.csproj", "{1B573557-4C76-48B2-BF1C-656017CB596C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	Release|Any CPU = Release|Any CPU
+	Tools|Any CPU = Tools|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B573557-4C76-48B2-BF1C-656017CB596C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B573557-4C76-48B2-BF1C-656017CB596C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B573557-4C76-48B2-BF1C-656017CB596C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B573557-4C76-48B2-BF1C-656017CB596C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B573557-4C76-48B2-BF1C-656017CB596C}.Tools|Any CPU.ActiveCfg = Tools|Any CPU
+		{1B573557-4C76-48B2-BF1C-656017CB596C}.Tools|Any CPU.Build.0 = Tools|Any CPU
+	EndGlobalSection
+EndGlobal
