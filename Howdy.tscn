@@ -1,6 +1,7 @@
-[gd_scene load_steps=2 format=2]
+[gd_scene load_steps=3 format=2]
 
 [ext_resource path="res://Howdy.cs" type="Script" id=1]
+[ext_resource path="res://fonts/SpaceMonoRegular.tres" type="DynamicFont" id=2]
 
 [node name="Panel" type="Panel"]
 anchor_right = 1.0
@@ -12,11 +13,13 @@ margin_left = 20.9944
 margin_top = 22.021
 margin_right = 115.994
 margin_bottom = 36.021
+custom_fonts/font = ExtResource( 2 )
 text = "Howdy, Planet!"
 
 [node name="Button" type="Button" parent="."]
-margin_left = 34.0807
-margin_top = 49.5134
-margin_right = 101.081
-margin_bottom = 69.5134
+margin_left = 34.0
+margin_top = 50.0
+margin_right = 120.0
+margin_bottom = 78.0
+custom_fonts/font = ExtResource( 2 )
 text = "Push Me"
